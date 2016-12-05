@@ -1,2 +1,2 @@
 # Simon
-Cube's Mewmory Game
+Cube's Memory Game
